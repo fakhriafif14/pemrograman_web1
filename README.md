@@ -5,6 +5,12 @@ NAMA   :FAKHRI AFIF
 KELAS  :TI.23.A6
 MATKUL:Pemrograman web 1
 ```
+## Gambar Halaman Home
+![image](home.png)
+  ```
+<h1>Halaman Home</h1>
+```
+
 ## Gambar Halaman Form
 ![image](form.png)
 ```
